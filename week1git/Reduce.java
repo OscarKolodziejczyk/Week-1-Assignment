@@ -1,5 +1,3 @@
-package week1git;
-
 public class Reduce {
     public static int main(int n) {
         return reduce(n);
